@@ -1,2 +1,2 @@
 # vicoSample
-1st Unity Project
+UWU vico's 1st Unity Project
